@@ -49,9 +49,9 @@ namespace kiemtra1
             this.label1.AutoSize = true;
             this.label1.Location = new System.Drawing.Point(139, 64);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(73, 16);
+            this.label1.Size = new System.Drawing.Size(109, 17);
             this.label1.TabIndex = 0;
-            this.label1.Text = "UserName";
+            this.label1.Text = "Ten Dang Nhap";
             this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // MatKhau
@@ -59,9 +59,9 @@ namespace kiemtra1
             this.MatKhau.AutoSize = true;
             this.MatKhau.Location = new System.Drawing.Point(142, 112);
             this.MatKhau.Name = "MatKhau";
-            this.MatKhau.Size = new System.Drawing.Size(67, 16);
+            this.MatKhau.Size = new System.Drawing.Size(68, 17);
             this.MatKhau.TabIndex = 2;
-            this.MatKhau.Text = "Password";
+            this.MatKhau.Text = "Mat Khau";
             // 
             // txtpassword
             // 
