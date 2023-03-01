@@ -17,9 +17,18 @@ namespace kiemtra1
             InitializeComponent();
         }
 
-        private void label1_Click(object sender, EventArgs e)
+        private void btnlogin_Click(object sender, EventArgs e)
         {
+           if(txtUserName.Text =="hoahiep" && txtpassword.Text == "12345")
+            {
 
+                MessageBox.Show("Đăng nhập thành công", "Thông Báo");
+            }
+           else
+            {
+
+                MessageBox.Show("Sai tên đăng nhập  hoặc mật khẩu", "Thông Báo");
+            }
         }
     }
 }
