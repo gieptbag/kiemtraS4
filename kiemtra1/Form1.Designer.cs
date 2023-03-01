@@ -49,7 +49,7 @@ namespace kiemtra1
             this.label1.AutoSize = true;
             this.label1.Location = new System.Drawing.Point(139, 64);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(109, 17);
+            this.label1.Size = new System.Drawing.Size(103, 16);
             this.label1.TabIndex = 0;
             this.label1.Text = "Ten Dang Nhap";
             this.label1.Click += new System.EventHandler(this.label1_Click);
@@ -59,7 +59,7 @@ namespace kiemtra1
             this.MatKhau.AutoSize = true;
             this.MatKhau.Location = new System.Drawing.Point(142, 112);
             this.MatKhau.Name = "MatKhau";
-            this.MatKhau.Size = new System.Drawing.Size(68, 17);
+            this.MatKhau.Size = new System.Drawing.Size(62, 16);
             this.MatKhau.TabIndex = 2;
             this.MatKhau.Text = "Mat Khau";
             // 
@@ -74,9 +74,9 @@ namespace kiemtra1
             // 
             this.button1.Location = new System.Drawing.Point(271, 188);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(75, 23);
+            this.button1.Size = new System.Drawing.Size(103, 35);
             this.button1.TabIndex = 4;
-            this.button1.Text = "btnlogin";
+            this.button1.Text = "Dang Nhap";
             this.button1.UseVisualStyleBackColor = true;
             // 
             // Form1
